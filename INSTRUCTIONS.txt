@@ -4,13 +4,13 @@ Requirements:
 >Wofi
 >Alacritty Terminal
 >ttf-hack
->Fastfetch [Opcional]
+>Fastfetch [Optional]
 
 Instructions:
 Extract the dotFiles.tar.xz, copy all the folders and paste to /home/{username}/.config
 Restart sway with mod+shift+c and it should work!
 
-Rice extra packages [Opcional]
+Rice extra packages [Optional]
 >cava
 >cmatrix-git [AUR]
 >htop
