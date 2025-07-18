@@ -15,6 +15,7 @@ Rice extra packages [Opcional]
 >cmatrix-git [AUR]
 >htop
 >tty-clock [AUR]
+>wayshot [AUR] #Screenshot Tool
 
 Credits:
 >Fastfetch logo by u/KoalaAlternative1038
