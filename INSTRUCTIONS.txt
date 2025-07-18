@@ -17,6 +17,8 @@ Rice extra packages [Opcional]
 >tty-clock [AUR]
 >wayshot [AUR] #Screenshot Tool
 
+Wallpaper: https://wallpaperaccess.com/rarity
+
 Credits:
 >Fastfetch logo by u/KoalaAlternative1038
 >Fastfetch layout preset by LierB
