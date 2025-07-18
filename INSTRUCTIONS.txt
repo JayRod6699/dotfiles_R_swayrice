@@ -1,0 +1,21 @@
+Requirements:
+>SwayWM [Read the Arch Wiki guide to install it properly]
+>Waybar
+>Wofi
+>Alacritty Terminal
+>ttf-hack
+>Fastfetch [Opcional]
+
+Instructions:
+Extract the dotFiles.tar.xz, copy all the folders and paste to /home/{username}/.config
+Restart sway with mod+shift+c and it should work!
+
+Rice extra packages [Opcional]
+>cava
+>cmatrix-git [AUR]
+>htop
+>tty-clock [AUR]
+
+Credits:
+>Fastfetch logo by u/KoalaAlternative1038
+>Fastfetch layout preset by LierB
