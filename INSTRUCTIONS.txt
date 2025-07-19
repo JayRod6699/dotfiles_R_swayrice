@@ -18,7 +18,7 @@ Rice extra packages [Optional]
 >wayshot [AUR] #Screenshot Tool
 
 Wallpaper: https://wallpaperaccess.com/rarity
->Create a folder named "Wallpapers" in /home/{username}/Pictures and place the wallpaper there,
+>Create a folder named "Wallpapers" in /home and place the wallpaper there,
 you must rename the wallpaper to "default.png"
 
 Credits:
